@@ -1,2 +1,2 @@
 # TheCircuitBreakers
-The place where The Circuit Breakers store their CAD files and code. 
+This repository is the place where The Circuit Breakers store their CAD files and code for the 2023-2024 Vex IQ challenge, "Full Volume". The challenge is available at https://www.youtube.com/watch?v=100tfTCiVmc&pp=ygUSdmV4IGlxIGZ1bGwgdm9sdW1l. We will mainly use this repository for staying organized and up-to-date with our CAD files and code. If we ever lost our file, or needed to collabarate on a CAD or piece of code, this Github repository would let us do that easy and fast. It would also allow us to track our changes over time and see our previous designs and code so that we can improve upon them. 
